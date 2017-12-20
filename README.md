@@ -49,7 +49,7 @@ $FILTERED_IDS = array(
 Everything within the external/kaltura-api folder is licensed according to the
 contents of the individual files in that folder and its subfolders.
 
-Everything else is liccensed according to the NORDUnet License (3-clause BSD).
+Everything else is licensed according to the NORDUnet License (3-clause BSD).
 See [LICENSE.md](LICENSE.md) for more details.
 
 # Copyright
