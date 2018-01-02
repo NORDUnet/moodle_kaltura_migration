@@ -19,7 +19,7 @@ else
 
 
 include('kaltura_entrys.inc.php');
-require_once('php5/KalturaClient.php');
+require_once($KALTURA_API_PATH . '/KalturaClient.php');
 
 
 $dbconn_m = mysqli_connect($MOODLE_DB_HOST, $MOODLE_DB_USER, $MOODLE_DB_PASSWORD) or die('Not connected to ' . $MOODLE_DB_HOST);

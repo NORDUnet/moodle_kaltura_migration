@@ -11,7 +11,7 @@ Create a config file for the script, a template is availible
 <?php
 
 //Kaltura settings
-$KALTURA_API_PATH = realpath('php5/');
+$KALTURA_API_PATH = realpath('external/kaltura-api/php5/');
 $KALTURA_ADMIN_SECRET = 'abc123abc123abc123abc123abc';
 $KALTURA_PARTNER_ID = 100;
 $KALTURA_PLAYER_ID = '12344';
